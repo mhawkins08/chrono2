@@ -9,4 +9,6 @@ I have more of a background in web frameworks/designing the systems behind websi
 I AM not the greatest at CSS/HTML/anything web design. I am still learning.
 I am a C#/C++/Java Developer. So go easy on me.
 
+NOTE: Look at the website on a 1920x1080 screen for the best possible experience. 
+
 reach out to me: mjhood.personal@gmail.com
