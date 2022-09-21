@@ -6,9 +6,6 @@ I will work on it again soon but I have school and not enough time currently. NO
 everything is my own! The theme work/style/design is my own! However the actual base of the website is not mine.
 I have more of a background in web frameworks/designing the systems behind websites. 
 
-I AM not the greatest at CSS/HTML/anything web design. I am still learning.
-I am a C#/C++/Java Developer. So go easy on me.
-
 NOTE: Look at the website on a 1920x1080 screen for the best possible experience. 
 
 reach out to me: mjhood.personal@gmail.com
